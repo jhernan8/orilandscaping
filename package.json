@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "ORI Landscaping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhernan8/orilandscaping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhernan8/orilandscaping/issues"
+  },
+  "homepage": "https://github.com/jhernan8/orilandscaping#readme"
+}
